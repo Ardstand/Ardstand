@@ -96,7 +96,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://discord-readme-badge.vercel.app/api?id=817277053619011614" /></div>  
+<div align="center"><a href="https://discord.com/users/817277053619011614"><img src="https://lanyard.cnrad.dev/api/817277053619011614" /></a></div>  
 
 <br/>  
 
