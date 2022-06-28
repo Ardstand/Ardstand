@@ -10,6 +10,10 @@
 <p align="center">
   <a href="#">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <p align="center">
+  <a href="#">
+<img src=" https://github-profile-trophy.vercel.app/?username=Ardstand" />
+    
     
       
 <!--
