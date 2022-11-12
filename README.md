@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ardstand, Owner and Developer @ [Zeqa Network](https://github.com/ZeqaNetwork)</div>  
   
 
-- 🔭 I’m currently working on [Zeqa Bot](https://github.com/ZeqaNetwork/bot-rewrite) (Private Project)  
+- 🔭 I’m currently working on [Zeqa Api](https://github.com/ZeqaNetwork/api-rewrite) (Private Project)  
   
 
 - 🌱 I’m currently learning Golang!  
