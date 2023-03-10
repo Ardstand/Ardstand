@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Ardstand, Owner and Developer @ [Zeqa Network](https://github.com/ZeqaNetwork)</div>  
+### <div align="center">I'm Ardstand, a Full-stack Developer</div>  
   
 
-- 🔭 I’m currently working on [Zeqa Api](https://github.com/ZeqaNetwork/api-rewrite) (Private Project)  
+- 🔭 I’m currently working on [Nuxtjs Project](https://github.com/Ardstand/nuxtTodo) (Private Project)  
   
 
 - 🌱 I’m currently learning Golang!  
