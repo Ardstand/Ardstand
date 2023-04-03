@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ardstand, a Full-stack Developer</div>  
   
 
-- 🔭 I’m currently working on [Nuxtjs Project](https://github.com/Ardstand/nuxtTodo) (Private Project)  
+- 🔭 I’m currently working on a Private Project.  
   
 
 - 🌱 I’m currently learning Golang!  
